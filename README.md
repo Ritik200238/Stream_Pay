@@ -10,7 +10,7 @@ Built on Linera microchains • Wave 3 Buildathon Submission
 
 [🎥 Watch 2-Minute Demo](https://youtu.be/_CmqB1fz7sg)
 
-## 🌐 Deployment Info
+## 🌐 Deployment Info 
 
 **Network:** Conway Testnet
 **Chain ID:** `ff869722e5434effbdcb533eae9979085f0ee8283aa711a9c2501838683ff54f`
