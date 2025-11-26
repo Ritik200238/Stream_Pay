@@ -1,0 +1,17 @@
+[workspace]
+resolver = "2"
+members = [
+    "token",
+    "stream",
+]
+
+[workspace.dependencies]
+async-graphql = "=7.0.17"
+linera-sdk = "0.15.6"
+serde = { version = "1.0", features = ["derive"] }
+thiserror = "1.0"
+
+[profile.release]
+opt-level = 'z'
+lto = true
+strip = 'debuginfo'

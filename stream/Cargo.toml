@@ -1,0 +1,19 @@
+[package]
+name = "stream"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+async-graphql.workspace = true
+linera-sdk.workspace = true
+serde.workspace = true
+thiserror.workspace = true
+token = { path = "../token" }
+
+[[bin]]
+name = "stream_contract"
+path = "src/contract.rs"
+
+[[bin]]
+name = "stream_service"
+path = "src/service.rs"
