@@ -111,7 +111,7 @@ Each stream could run on its own microchain if needed, enabling unlimited parall
 
 ## Demo Video
 
-**YouTube URL**: [INSERT YOUR VIDEO URL HERE]
+**YouTube URL**: https://youtu.be/_CmqB1fz7sg
 
 **Demo shows**:
 - Live backend connection to Conway Testnet
@@ -122,18 +122,6 @@ Each stream could run on its own microchain if needed, enabling unlimited parall
 
 ---
 
-## GitHub Repository
-
-**Repository URL**: [INSERT YOUR GITHUB URL HERE]
-
-**Repository includes**:
-- Complete Rust smart contract code
-- React frontend with TypeScript
-- Deployment scripts and documentation
-- GraphQL integration code
-- WASM build artifacts
-
----
 
 ## Deployment Information
 
@@ -257,16 +245,7 @@ Special thanks to:
 
 
 
-## Submission Checklist
 
-- [x] Smart contracts deployed to Conway Testnet
-- [x] Frontend connected to live backend
-- [x] Demo video recorded and uploaded
-- [x] GitHub repository public and documented
-- [x] All IDs and URLs provided
-- [x] Testing instructions clear and working
-- [ ] Submission form completed
-- [ ] All materials submitted before deadline
 
 ---
 
